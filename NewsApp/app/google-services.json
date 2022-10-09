@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564499118611",
+    "project_id": "newsapp-c1616",
+    "storage_bucket": "newsapp-c1616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564499118611:android:a57a588879bd9051e01de6",
+        "android_client_info": {
+          "package_name": "com.sarvoyas.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564499118611-qhn000e2gec2sbh6n99pt7r1g27od72n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSkCApGHULtehEJ4rh8xIEoEJuuYdDuIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564499118611-qhn000e2gec2sbh6n99pt7r1g27od72n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
